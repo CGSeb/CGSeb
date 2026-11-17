@@ -77,18 +77,6 @@ Right now I'm mostly working on:
 
 <br>
 
-## 🎨 3D and Blender add-ons
-
-I also make tools for Blender and the community around it.
-
-| | |
-|---|---|
-| 🔷 [**linked_vertices_isolator**](https://github.com/CGSeb/linked_vertices_isolator) | Isolate linked vertices in Blender |
-| 📚 [**dm_customizer_doc**](https://github.com/CGSeb/dm_customizer_doc) | Documentation for DM Customizer, an add-on to customize DECALmachine thumbnails |
-| 📚 [**easy_builder_doc**](https://github.com/CGSeb/easy_builder_doc) | Documentation for Easy Builder |
-
-<br>
-
 ## 🌙 On the side
 
 - 🎬 **Ambience videos**: I imagine, generate and edit cozy scenes (rain, snow, space, submarine) for relaxing or working, and handle the whole chain: ideas, sounds, editing, publishing.
