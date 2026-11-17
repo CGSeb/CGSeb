@@ -80,7 +80,7 @@ Right now I'm mostly working on:
 
 - 🎞️ **Videos as code** with [Remotion](https://www.remotion.dev) for LessonFolk.
 - 🎙️ **Audio**: a real-time microphone processor written in Rust (equalizer, denoiser, gate, compressor).
-- 🗓️ **Personal tools**: a local personal assistant (calendar, posts, plans), and a way to organize my job search.
+- 🗓️ **Personal tools**: a local personal assistant (calendar, posts, plans).
 
 <br>
 
