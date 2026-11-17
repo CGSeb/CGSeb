@@ -29,7 +29,6 @@ Right now I'm mostly working on:
 
 - 🎓 **LessonFolk**: learning AI with an AI as your tutor
 - 🧊 **Voxel Shift** and **Moodcrate**: apps for 3D artists
-- 🌧️ **Ambience videos**: cabins in the rain, blizzard shelters, cabins in orbit
 - 🏠 **An atlas of houses** built on French open data
 
 <br>
@@ -79,7 +78,6 @@ Right now I'm mostly working on:
 
 ## 🌙 On the side
 
-- 🎬 **Ambience videos**: I imagine, generate and edit cozy scenes (rain, snow, space, submarine) for relaxing or working, and handle the whole chain: ideas, sounds, editing, publishing.
 - 🎞️ **Videos as code** with [Remotion](https://www.remotion.dev) for LessonFolk.
 - 🎙️ **Audio**: a real-time microphone processor written in Rust (equalizer, denoiser, gate, compressor).
 - 🗓️ **Personal tools**: a local personal assistant (calendar, posts, plans), and a way to organize my job search.
