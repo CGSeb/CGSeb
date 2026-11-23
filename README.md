@@ -60,13 +60,6 @@ Right now I'm mostly working on:
       <p><sub>Rust · Blender · MCP</sub></p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🖥️ <a href="https://github.com/CGSeb/personal-website">Portfolio</a></h3>
-      <p>My bilingual site: a fast written version that reads without JavaScript, and an isometric 3D room to explore with Three.js.</p>
-      <p><sub>TypeScript · Three.js · <a href="https://sebastienmichon.fr">sebastienmichon.fr</a></sub></p>
-    </td>
-  </tr>
 </table>
 
 <br>
