@@ -30,7 +30,6 @@ Right now I'm mostly working on:
 - 🎓 **LessonFolk**: learning AI with an AI as your tutor
 - 🏭 **FactoryDeck**: a dashboard and skills for AI agent software factories
 - 🧊 **Voxel Shift**: an app for 3D artists
-- 🏠 **An atlas of houses** built on French open data
 
 <br>
 
