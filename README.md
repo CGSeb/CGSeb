@@ -28,7 +28,8 @@ I'm a developer based in Toulouse. I split my time between **desktop apps**, **t
 Right now I'm mostly working on:
 
 - 🎓 **LessonFolk**: learning AI with an AI as your tutor
-- 🧊 **Voxel Shift** and **Moodcrate**: apps for 3D artists
+- 🏭 **FactoryDeck**: a dashboard and skills for AI agent software factories
+- 🧊 **Voxel Shift**: an app for 3D artists
 - 🏠 **An atlas of houses** built on French open data
 
 <br>
@@ -38,9 +39,21 @@ Right now I'm mostly working on:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏭 <a href="https://github.com/CGSeb/factorydeck">FactoryDeck</a></h3>
+      <p>A local-first, open-source dashboard for an AI agent software factory. It links what your agents spend to the work they deliver: cost per issue and per role, review rounds, merge outcomes and frictions worth fixing.</p>
+      <p><sub>TypeScript · PostgreSQL · Claude Code</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/CGSeb/lessonfolk">LessonFolk</a></h3>
       <p>Open-source AI courses <b>taught by an AI</b>. Connect your chat (Claude, ChatGPT, Cursor…) through MCP, say "let's start", and the tutor walks you through the lessons in conversation and saves your progress.</p>
       <p><sub>TypeScript · MCP · <a href="https://lessonfolk.com">lessonfolk.com</a></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/CGSeb/factorydeck-skills">FactoryDeck Skills</a></h3>
+      <p>Skills to run a software factory of coding agents on any project: write and check specs, build features with independent review and a merge gate, then learn from each run. Plain Markdown, for Claude Code, Codex and more.</p>
+      <p><sub>Agent Skills · Markdown · Claude Code</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧊 <a href="https://github.com/CGSeb/voxelshift">Voxel Shift</a></h3>
@@ -49,12 +62,7 @@ Right now I'm mostly working on:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🗂️ <a href="https://github.com/CGSeb/moodcrate">Moodcrate</a></h3>
-      <p>An app to gather, tag, organize and arrange your visual references into moodboards.</p>
-      <p><sub>Tauri v2 · Rust · React 19 · TypeScript</sub></p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🖥️ <a href="https://github.com/CGSeb/personal-website">Portfolio</a></h3>
       <p>My bilingual site: a fast written version that reads without JavaScript, and an isometric 3D room to explore with Three.js.</p>
       <p><sub>TypeScript · Three.js · <a href="https://sebastienmichon.fr">sebastienmichon.fr</a></sub></p>
