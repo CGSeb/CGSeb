@@ -88,8 +88,8 @@ Right now I'm mostly working on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=CGSeb&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=a78bfa&text_color=e2e8f0&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CGSeb&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e2e8f0" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=CGSeb&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=a78bfa&text_color=e2e8f0&count_private=true&v=20261123" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CGSeb&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e2e8f0&v=20261123" alt="Top languages" />
 
 </div>
 
